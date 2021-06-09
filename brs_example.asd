@@ -3,7 +3,7 @@
   <header>
     <name>Example for BRS rendering</name>
     <description>
-      This example is to be replayed with the BRS renderer.
+      This example is to be replayed with the BRS renderer. The BRIRs allow only for head rotations in the interval [-90, 90] degrees.
     </description>
   </header>
 
